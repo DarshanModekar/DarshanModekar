@@ -1,22 +1,23 @@
-<h1 align="center">Hi 👋, I'm Darshan Modekar</h1>
-<h3 align="center">Electronics & Communication Engineer | Embedded Systems | AI/ML & GenAI Enthusiast</h3>
+<h1 align="center">👋 Hi, I'm Darshan Modekar</h1>
+<h3 align="center">Electronics & Communication Engineer | Embedded Systems Developer | AI/ML & GenAI Enthusiast</h3>
 
 ---
 
 ## 🎓 About Me
 
-- 🔬 Final-year **ECE undergraduate** passionate about cutting-edge technologies  
-- 🔧 Strong foundation in **Microcontrollers (8051, ARM Cortex)**, **RTOS**, and **Embedded C**  
-- 📡 Experienced with **Arduino**, **ESP32**, and **real-time sensor interfacing**  
-- 🧠 Exploring **Machine Learning**, **GenAI**, and their integration into embedded systems  
-- 💻 Skilled in **Verilog HDL**, **VLSI Design**, and **Digital & Analog Circuits**  
-- 🌱 Currently learning **DevOps for embedded AI** deployments  
+I’m a passionate and driven final-year **Electronics and Communication Engineering** undergraduate with hands-on experience in building intelligent embedded systems. My work bridges the gap between **hardware-level programming** and **AI-powered automation**, with a strong foundation in:
 
-📫 Reach me at: **yourmail@example.com**
+- 🔧 **Microcontrollers (8051, ARM Cortex)**, **RTOS**, and **Embedded C**
+- 📡 Real-time sensor integration using **Arduino** and **ESP32**
+- 💡 Applications of **Machine Learning** and **Generative AI** in embedded environments
+- 💻 **Verilog HDL**, **VLSI Design**, and circuit simulation tools
+- 🚀 Currently exploring **DevOps** for intelligent edge computing solutions
+
+📬 **Reach out**: `yourmail@example.com`  
 
 ---
 
-## 🛠️ Tools & Technologies
+## 🛠️ Skills & Technologies
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" alt="C"/>
@@ -30,6 +31,27 @@
 
 ---
 
+## 🏆 Highlights & Achievements
+
+- 🔁 Developed real-time embedded systems with **ESP32 integrated with AI models**
+- 🧠 Implemented **GenAI** techniques for automation and predictive analytics
+- 🛠️ Designed and simulated custom **VLSI circuits** using Verilog HDL
+- 🛰️ Active participant in **CanSAT**, **IoT hackathons**, and **hardware design competitions**
+- 🌾 Engineered smart agricultural systems leveraging **sensor networks** and **edge AI**
+
+---
+
+## 📌 Featured Projects
+
+> *(Will be pinned on GitHub once available)*
+
+- 👨‍🚀 **HimRashak** – Autonomous CanSAT-based data acquisition system  
+- 🤖 **Smart Farming System** – IoT + ML-powered solution using ESP32  
+- 🧠 **Vibration Analyzer** – ML-based fault detection system  
+- 🔬 **Digital Design Suite** – Verilog-based simulation of combinational & sequential circuits  
+
+---
+
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -39,27 +61,7 @@
 
 ---
 
-## 🏆 Highlights
-
-- ✅ Built real-time embedded prototypes using **ESP32 + ML models**  
-- 🧠 Integrated **Gen AI models** for automation and analysis  
-- 🔍 Designed custom **VLSI circuits** and implemented them using simulation tools  
-- 🛠️ Participated in CanSAT, IoT Hackathons & Embedded Design Challenges  
-
----
-
-## 📌 Pinned Projects (once uploaded)
-
-- 👨‍🚀 HimRashak - CanSAT System  
-- 🤖 Smart Farming with ESP32  
-- 🧠 ML-based Vibration Analyzer  
-- 🔬 Verilog Digital Circuit Simulations  
-
-> ⭐ **Pro Tip**: After pushing your EC/embedded projects, go to your profile and pin them to highlight them better.
-
----
-
-## 🌐 Connect with Me
+## 🌐 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://linkedin.com/in/YOUR_PROFILE)  
 [![Twitter](https://img.shields.io/badge/Twitter-blue?logo=twitter&style=for-the-badge)](https://twitter.com/YOUR_HANDLE)  
