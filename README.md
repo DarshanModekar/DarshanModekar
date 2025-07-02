@@ -3,68 +3,57 @@
 
 ---
 
-🎓 **About Me:**
+🎓 **About Me**
 
-- 🔬 Final-year **ECE undergraduate** passionate about cutting-edge technologies
-- 🔧 Strong foundation in **Microcontrollers (8051, ARM Cortex)**, **RTOS**, and **Embedded C**
-- 📡 Experienced with **Arduino, ESP32**, and **real-time sensor interfacing**
-- 🧠 Exploring **Machine Learning**, **GenAI**, and their integration in embedded systems
-- 💻 Skilled in **Verilog HDL**, **VLSI Design**, and **Digital & Analog Circuits**
-- 🌱 Currently learning **DevOps for embedded AI** deployments
-
-📫 Reach me at: **yourmail@example.com**
+- 🔬 Final-year **ECE undergraduate** passionate about intelligent embedded systems
+- 🔧 Hands-on with **Microcontrollers (8051, ARM Cortex)**, **RTOS**, and **Embedded C**
+- 📡 Experienced with **Arduino**, **ESP32**, and **sensor-driven IoT systems**
+- 🧠 Exploring **Gen AI**, **TinyML**, and **VLSI Design**
+- 🌱 Currently diving into **DevOps + Embedded AI** workflows
+- 📫 Reach me at: **yourmail@example.com**
 
 ---
 
-### 🛠️ Tools & Technologies:
+## 🛠️ Skills & Technologies
 
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/verilog/verilog-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/>
+### Programming & Hardware
+![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-004482?style=flat&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54)
+![Verilog](https://img.shields.io/badge/Verilog-DD0031?style=flat&logo=verilog&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino&logoColor=white)
+![ESP32](https://img.shields.io/badge/ESP32-323232?style=flat&logo=espressif&logoColor=white)
+![RTOS](https://img.shields.io/badge/RTOS-007ACC?style=flat&logo=azuredevops&logoColor=white)
+![ARM](https://img.shields.io/badge/ARM-CB0000?style=flat&logo=arm&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=DarshanModekar&show_icons=true&theme=gruvbox&hide=prs,issues" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DarshanModekar&layout=pie&theme=gruvbox" />
 </p>
 
 ---
 
-### 📊 GitHub Stats:
+## 🔥 Streak Stats
 
-![Darshan's GitHub stats](https://github-readme-stats.vercel.app/api?username=DarshanModekar&show_icons=true&theme=dark)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DarshanModekar&layout=compact&theme=dark)
-
----
-
-### 🌐 Connect with me:
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://linkedin.com/in/YOUR_PROFILE)
-[![Twitter](https://img.shields.io/badge/Twitter-blue?logo=twitter&style=for-the-badge)](https://twitter.com/YOUR_HANDLE)
-[![Portfolio](https://img.shields.io/badge/Portfolio-grey?logo=githubpages&style=for-the-badge)](https://DarshanModekar.github.io/portfolio/)
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=DarshanModekar&theme=gruvbox&hide_border=true&border_radius=6"/>
+</p>
 
 ---
 
-### 🏆 Highlights:
+## 📈 Contribution Graph
 
-- ✅ Built real-time embedded prototypes using **ESP32 + ML models**
-- 🧠 Integrated **Gen AI models** for automation and analysis
-- 🔍 Designed custom **VLSI circuits** and implemented them in simulation tools
-- 🛠️ Participated in CanSAT, IoT Hackathons & Embedded Design Challenges
+[![Darshan's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=DarshanModekar&theme=react-dark&area=true)](https://github.com/Ashutosh00710/github-readme-activity-graph)
 
 ---
 
-### 📌 Pinned Projects (once you upload):
-- 👨‍🚀 HimRashak - CanSAT System  
-- 🤖 Smart Farming with ESP32  
-- 🧠 ML-based Vibration Analyzer  
-- 🔬 Verilog Digital Circuit Simulations  
+## 🐍 Contribution Snake
 
----
+> This will animate your contributions beautifully!
 
-> ⭐ Pro Tip: Once you push some EC/embedded projects, **pin them** to your GitHub profile for more impact.
-
----
-
-Let me know if you'd like this as a downloadable `.md` file or want help hosting a portfolio too!
+```markdown
+![snake gif](https://github.com/DarshanModekar/DarshanModekar/blob/output/github-contribution-grid-snake.svg)
