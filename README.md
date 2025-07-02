@@ -13,7 +13,7 @@ I’m a passionate and driven final-year **Electronics and Communication Enginee
 - 💻 **Verilog HDL**, **VLSI Design**, and circuit simulation tools
 - 🚘 Currently exploring **Computer Networking** fundamentals and **Automotive Embedded Systems** for applications in connected vehicles and smart mobility
 
-📬 **Reach out**: `yourmail@example.com`  
+📬 **Reach out**: `darshanmodekar@gmail.com`  
 
 ---
 
