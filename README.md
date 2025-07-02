@@ -11,7 +11,7 @@ I’m a passionate and driven final-year **Electronics and Communication Enginee
 - 📡 Real-time sensor integration using **Arduino** and **ESP32**
 - 💡 Applications of **Machine Learning** and **Generative AI** in embedded environments
 - 💻 **Verilog HDL**, **VLSI Design**, and circuit simulation tools
-- 🚀 Currently exploring **DevOps** for intelligent edge computing solutions
+- 🚘 Currently exploring **Computer Networking** fundamentals and **Automotive Embedded Systems** for applications in connected vehicles and smart mobility
 
 📬 **Reach out**: `yourmail@example.com`  
 
